@@ -1,0 +1,138 @@
+SOUTH OF THE SUN
+
+a role-playing game about a dragon team
+discovering the world before the world. 
+
+Based on Apocalypse World.
+
+
+
+The world of South of the Sun is an enormous (really,
+mind-bogglingly huge) disc surrounding a sun. Humans inhabit
+a tiny part of the section where the temperature, air
+pressure, and natural resources allow them to survive. Since
+the world does not rotate in the sense that a planet does,
+everything is cast in perpetual twilight from a single,
+unchanging direction, and there is no
+natural day or night, usually. Sometimes it happens, with
+catastrophic results. 
+
+The known civilised lands are divided into cities that
+control the lands shadowside or 'south' of them (away from
+the sun). Cities further north (sunside) almost always have
+martial and strategic advantage over more southern cities
+due to having the sun at their backs during combat, and
+being able to shade their enemies, starving them of
+resources. However, going north results in hotter and hotter
+climates. As a result, most cities are built as far north as
+their cooling technologies allow, and sometimes send
+exploratory parties to the north.  
+
+This game focuses on the player character's explorations,
+missions and exploits as they uncover the underlying truth
+behind the world. Who built it? Why is it here? What
+histories have been lost? How did humans come to be here? 
+What secrets lie to the wild and uncharted east and
+west, in the shadowy south and the burning bright north,
+under the ground and above the clouds? And what connections
+do the majestic, powerful and alien dragons have to this
+strange world? 
+
+
+-- CHARACTERS --
+
+	THE DRAGON
+	- a majestic, sentient flying creature that breathes fire and
+	  is deeply connected to their rider. 
+	- the player names all dragons encountered by the party
+	- somehow connected to the history of the world in a
+	  fundamental way. 
+	- the Dragon names history, past events, their impact on the
+	  present, myths and stories. 
+
+	THE RIDER
+	- a noble warrior or ambassador. cares for the dragon and
+	  carries the weight of their society's expectations. 
+	- the rider names social conventions, cultural practices, 
+	and martial strategies. 
+
+	THE WIZARD
+	- a canny mechanic. sees the strangeness and wonder of
+	  technology, and alone understands it. 
+	- the wizard names technology as it is used in the world,
+	  how well it is understood (if at all), how it is used and
+	how it shapes societies. 
+
+	THE HUNTER
+	- a woodsperson, survivalist, and logistician. ensures the
+	  team's food and shelter. 
+	- the hunter names creatures, wildlife, and the web of
+	  ecosystems that make up the environment. 
+
+	THE PHILOSOPHER
+	- a scientist, experimentalist and natural theorist. 
+	- the philosopher names the physical realities of the world -
+	  geology, meteorology and climate, and the implications of
+	the strange physics of the disc world. 
+
+RULES
+
+	2d6 + stat to resolve.
+	1-6 - Failure.
+	7-9 - Partial Success. You get what you want, GM makes a move.
+	10-12 - Full Success. 
+
+STATS (-2 to +2) 
+
+	MOTIVE Your ability to take strenuous
+		action. a measure of strength and willpower.
+
+	FLUIDITY
+		A measure of speed, quickness, grace and smoothness.
+
+	HISTORY 
+		A measure of your connection to the world and its
+		mysteries.
+
+	HEART
+		A measure of connectedness to other beings - your
+		ability to befriend, charm, seduce, or inspire. 
+
+	GUILE
+		A measure of your craftiness and ability to
+		repurpose the world's resources for your own benefit
+
+
+GENERAL MOVES
+	
+	FORCE
+		You apply judicious force to change something.
+		Partial success: You succeed. Describe what breaks. 
+
+	ENDURE
+		You keep going where others might lose their resolve. 
+		Partial success: You succeed. Describe how you are weakened. 
+
+	AVOID
+		You avoid danger by getting quickly out the way, or moving gracefully into it. 
+		Partial success: You succeed. Describe how the thing you are avoiding strikes someone or something important.
+
+	DIVINE
+		You are connected to the history of the World. Some facet of its unknown past has impressed itself on you.  
+		Partial success: You succeed. Describe what you now know. You are wrong about part of it.  
+
+	PARLAY
+		You get someone to see your point of view, with reason or charm or guile. 
+		When you roll parlay, say one thing you know that your opponent 
+		(or anyone else, if no obvious opponent is present) does not.  
+		Partial success: You succeed. Describe one thing your opponent gets you to believe. 
+
+	MANIPULATE
+		You operate a device or tool that requires finesse.
+		Partial success: You succeed. Describe how the object is permanently different.
+
+	SABOTAGE
+
+	BODGE
+
+	FORGE INSIGHT
