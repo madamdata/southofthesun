@@ -77,18 +77,20 @@ strange world?
 
 RULES
 
-	2d6 + stat to resolve.
-	1-6 - Failure.
-	7-9 - Partial Success. You get what you want, GM makes a move.
-	10-12 - Full Success. 
+	MAKING A MOVE
+		2d6 + stat to resolve.
+		1-6 - Failure.
+		7-9 - Partial Success. You get what you want, but
+		      there are complications. See the move description for details. 
+		10-12 - Full Success. 
 
 STATS (-2 to +2) 
 
-	MOTIVE Your ability to take strenuous
-		action. a measure of strength and willpower.
+	MOTIVE  Your ability to take strenuous
+		action. A measure of strength and willpower.
 
 	FLUIDITY
-		A measure of speed, quickness, grace and smoothness.
+		A measure of quickness, grace and smoothness.
 
 	HISTORY 
 		A measure of your connection to the world and its
@@ -100,7 +102,8 @@ STATS (-2 to +2)
 
 	GUILE
 		A measure of your craftiness and ability to
-		repurpose the world's resources for your own benefit
+		repurpose the world's resources for your own
+		benefit.
 
 
 GENERAL MOVES
